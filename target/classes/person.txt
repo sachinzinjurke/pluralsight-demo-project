@@ -1,0 +1,6 @@
+sachin,zinjurke,36,M
+deepali,borse,22,F
+shweta,kumar,28,F
+abhishek,singhal,33,M
+sandeep,lawar,40,M
+nutan,patil,31,F
